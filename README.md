@@ -14,6 +14,9 @@ A small JavaScript greeting helper that creates greetings based on a person's na
 2. Open `greeting.js` in a JavaScript environment such as Node.js or a browser console.
 3. Call the `createGreeting` function with a first name, last name, and time of day.
 
+## Project Page URL
+https://roadmap.sh/projects/js-greeting-builder
+
 ## Example
 
 ```javascript
@@ -21,5 +24,6 @@ console.log(createGreeting('Ava', 'Stone', 'morning'));
 console.log(createGreeting('Noah', 'Kim', 'evening'));
 console.log(createGreeting('Mina', 'Patel', 'afternoon'));
 
-## Project Page URL
-https://roadmap.sh/projects/js-greeting-builder
+
+
+
